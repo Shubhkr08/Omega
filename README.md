@@ -71,12 +71,12 @@ This is a Custom Rp2040 Chip Based MicroPad , It has 9 Switches , a roter encode
 
 | Category | Cost (USD) |
 |----------|------------|
-| DigiKey Components | 41.73 |
+| DigiKey Components | 39.78 |
 | DigiKey Shipping | 20.00 |
 | JLCPCB PCB + Stencil | 7.01 |
 | JLCPCB Shipping - Coupons | 8.16|
-| **Grand Total** | **76.9 USD** |
+| **Grand Total** | **74.95 USD** |
 
 ---
 
-##  Final Total: **$76.9 USD**
+##  Final Total: **$74.95 USD**
